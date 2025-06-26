@@ -1,4 +1,4 @@
-# E-# DepthProMap – Depth Estimation for Wound Assessment
+#DepthProMap – Depth Estimation for Wound Assessment
 
 **E-Kare Health Company** | AI Research Project
 
